@@ -10,4 +10,4 @@ versions:
 
 ### Table of Contents
 
-{% link_in_list /exploring-security-alerts %}
+{% link_in_list /exploring-security-docs/content/code-security/security-overview/index.md
